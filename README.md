@@ -81,6 +81,3 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 * Identified key trends and performance drivers
 * Highlighted areas of improvement and opportunities
 * Provided data-driven recommendations for business decisions
-  
-
-If you want, I can also customize this README with your **actual dataset name, KPIs, or project domain (sales, healthcare, finance, etc.)** to make it even stronger for recruiters.
