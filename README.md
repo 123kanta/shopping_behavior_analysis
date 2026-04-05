@@ -1,10 +1,6 @@
 # shopping_behavior_analysis
 Data Analytics Project showcasing customer shopping behavior analysis using Python, SQL,Power BI
 
-Here’s a clean, professional, and recruiter-friendly README you can use for your data analytics project:
-
----
-
 # 📊 Data Analytics Project
 
 ## 🔍 Overview
